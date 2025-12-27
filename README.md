@@ -5,7 +5,7 @@
 - pip install -r requirements.txt
 - python3 app.py
 
-# Adoption Flask Project
+# Adoption Flask SQLAlchemy
 
 A Flask framework web application for managing orm model data.  
 This project allows users to view available pets, create profiles, and submit adoption requests.
