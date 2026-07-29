@@ -1,6 +1,6 @@
-# Adoption Flask Project
+# Adoption Web APP with Flask
 
-A Flask framework web application for managing orm model data.  
+A Flask framework web application for managing ORM model data.  
 This project allows users to view available pets, create profiles, and submit adoption requests.
 
 ## How it works:
