@@ -1,3 +1,8 @@
+# Adoption Flask Project
+
+A Flask framework web application for managing orm model data.  
+This project allows users to view available pets, create profiles, and submit adoption requests.
+
 ## How it works:
 
 - python3 -m venv venv
@@ -5,22 +10,9 @@
 - pip install -r requirements.txt
 - python3 app.py
 
-# Adoption Flask SQLAlchemy
-
-
-- python3 -m venv venv
-- source venv/bin/activate
-- pip install -r requirements.txt
-- python3 app.py
-
-# Adoption Flask Project
-
-A Flask framework web application for managing orm model data.  
-This project allows users to view available pets, create profiles, and submit adoption requests.
-
 ---
 
-## Features
+## Features:
 
 - View all pets available for adoption
 - View pet details and profiles
@@ -30,16 +22,8 @@ This project allows users to view available pets, create profiles, and submit ad
 
 ---
 
-## Technologies Used:
+## Tech-Stack:
 
 - Python
 - Flask
 - SQLAlchemy
-
-## What I Learned:
-
------
-
-###
-
-clone Repo:
