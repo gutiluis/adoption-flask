@@ -31,4 +31,4 @@ This project allows users to view available pets, create profiles, and submit ad
 ---
 ### LICENSE
 
-MIT License
+[MIT License](LICENSE)
