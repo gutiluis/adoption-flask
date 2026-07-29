@@ -27,3 +27,7 @@ This project allows users to view available pets, create profiles, and submit ad
 - Python
 - Flask
 - SQLAlchemy
+
+---
+LICENSE
+MIT License
