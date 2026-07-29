@@ -29,5 +29,6 @@ This project allows users to view available pets, create profiles, and submit ad
 - SQLAlchemy
 
 ---
-LICENSE
+### LICENSE
+
 MIT License
