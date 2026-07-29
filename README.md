@@ -3,16 +3,17 @@
 A Flask framework web application for managing ORM model data.  
 This project allows users to view available pets, create profiles, and submit adoption requests.
 
-## How it works:
+## How it works
 
-- python3 -m venv venv
-- source venv/bin/activate
-- pip install -r requirements.txt
-- python3 app.py
-
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 app.py
+```
 ---
 
-## Features:
+## Features
 
 - View all pets available for adoption
 - View pet details and profiles
@@ -22,13 +23,13 @@ This project allows users to view available pets, create profiles, and submit ad
 
 ---
 
-## Tech-Stack:
+## Tech-Stack
 
 - Python
 - Flask
 - SQLAlchemy
 
 ---
-### LICENSE
+### License
 
 [MIT License](LICENSE)
